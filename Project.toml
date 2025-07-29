@@ -1,0 +1,4 @@
+name = "IWantThis"
+uuid = "a704f0ae-c4ab-4307-b4fe-9b02b8e6c163"
+authors = ["John Bonjour <whitewolfzhang@gmail.com>"]
+version = "0.1.0"
